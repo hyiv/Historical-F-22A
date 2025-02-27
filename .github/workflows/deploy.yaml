@@ -15,6 +15,7 @@ jobs:
               name: Checkout
               with:
                 path: f-22a
+                lfs: true
 
             - name: Clean Project
               working-directory: f-22a
