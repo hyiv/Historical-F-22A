@@ -1,1 +1,0 @@
-Acceptable file formats include .dds .png .bmp
