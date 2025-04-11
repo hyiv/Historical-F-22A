@@ -18,11 +18,12 @@ AIM-9X Block II Sidewinder,
 AIM-9X Sidewinder,
 AIM-9M Sidewinder,
 
+AIM-272A (boeing LRAAM)
 AIM-260A,
 AIM-200A (not included),
 
 AIM-120D-3,
-AIM-120D-2,
+AIM-120D,
 AIM-120C-8,
 AIM-120C-7,
 AIM-120C-6,
